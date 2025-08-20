@@ -4,7 +4,7 @@ Documentation and assets for the WS2812B LED Protection Module, including recomm
 
 [![Tindie](https://img.shields.io/badge/Tindie-Product%20Page-orange?style=for-the-badge&logo=tindie)](https://www.tindie.com/products/27407/)
 
-<img src="https://cdn.tindiemedia.com/images/resize/uIAz0fjVCjlNlB5Ouokz-EMOXkM=/p/fit-in/1370x912/filters:fill(fff)/i/192123/products/2025-08-05T09%3A23%3A26.952Z-1080__.jpg?1754360612" alt="Hexagonal LED Matrix" width="600">
+<img src="https://cdn.tindiemedia.com/images/resize/uIAz0fjVCjlNlB5Ouokz-EMOXkM=/p/fit-in/1370x912/filters:fill(fff)/i/192123/products/2025-08-05T09%3A23%3A26.952Z-1080__.jpg?1754360612" alt="Protection Module for WS2812B LEDs" width="600">
 
 ## 📋 Specifications
 
