@@ -1,4 +1,4 @@
-# Protection module for WS2812B LEDs
+# Protection Module for WS2812B LEDs
 
 Documentation and assets for the WS2812B LED Protection Module, including recommended capacitor, resistor, and optional 3.3V to 5V level shifting.
 
@@ -17,28 +17,28 @@ Documentation and assets for the WS2812B LED Protection Module, including recomm
 
 ### IN Connector
 
-| Pin | Function | Description                          |
-|-----|----------|--------------------------------------|
-| IN  | Data     | Data input signal from controller    |
-| 5V  | Power    | 5V DC power supply                   |
-| GND | Ground   | Ground connection                    |
+| Pin | Function | Description                       |
+| --- | -------- | --------------------------------- |
+| IN  | Data     | Data input signal from controller |
+| 5V  | Power    | 5V DC power supply                |
+| GND | Ground   | Ground connection                 |
 
 ### OUT Connector
 
-| Pin | Function | Description                             |
-|-----|----------|-----------------------------------------|
-| OUT | Data     | Data output to LEDs' data input    |
-| 5V  | Power    | 5V power output for LEDs                |
-| GND | Ground   | Ground connection for LEDs              |
+| Pin | Function | Description                     |
+| --- | -------- | ------------------------------- |
+| OUT | Data     | Data output to LEDs' data input |
+| 5V  | Power    | 5V power output for LEDs        |
+| GND | Ground   | Ground connection for LEDs      |
 
 ### Level Shifter Jumper
 
 The module includes a 2-position jumper for enabling/disabling the 3.3V to 5V level shifter:
 
-| Position | Function | Description                                                                                           |
-|----------|----------|-------------------------------------------------------------------------------------------------------|
-| **EN**   | Enabled  | Activates level shifter — use when connecting to 3.3V logic devices (e.g., STM32, ESP32, etc.)         |
-| **DIS**  | Disabled | Bypasses level shifter — use when connecting to 5V logic devices (e.g., Arduino, etc.)                |
+| Position | Function | Description                                                                                    |
+| -------- | -------- | ---------------------------------------------------------------------------------------------- |
+| **EN**   | Enabled  | Activates level shifter — use when connecting to 3.3V logic devices (e.g., STM32, ESP32, etc.) |
+| **DIS**  | Disabled | Bypasses level shifter — use when connecting to 5V logic devices (e.g., Arduino, etc.)         |
 
 ### Wiring Diagrams
 
